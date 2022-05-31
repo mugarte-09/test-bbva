@@ -1,0 +1,1 @@
+export { TestCapacitacion } from './src/TestCapacitacion.js';
